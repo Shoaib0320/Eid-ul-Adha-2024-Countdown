@@ -50,6 +50,14 @@ body {
         background-position: center;
         height: 1000px;
         width: 100%;
+        margin: 0px;
     }
+
+    body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        padding: 0px;
+        background-color: #f4f4f4;
+      }
     
   }
